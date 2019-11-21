@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="100px" viewBox="0 0 400 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="88" height="21" rx="2"></rect>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#150F30" x="0" y="0" width="400" height="100"></rect>
+        <text id="Occupation" font-family="SFProDisplay-Heavy, SF Pro Display" font-size="15" font-weight="600" fill="#FFFFFF">
+            <tspan x="154.037598" y="34">Occupation</tspan>
+        </text>
+        <g id="Group" transform="translate(76.000000, 36.000000)">
+            <g id="Rectangle-2">
+                <use fill="#D8D8D8" xlink:href="#path-1"></use>
+                <use fill="#FF374F" xlink:href="#path-1"></use>
+            </g>
+            <text id="INTERN" font-family="SFProDisplay-Bold, SF Pro Display" font-size="15" font-weight="bold" fill="#150F30">
+                <tspan x="17.6877441" y="14">INTERN</tspan>
+            </text>
+            <text id="Network-Automation" font-family="SFProDisplay-Bold, SF Pro Display" font-size="15" font-weight="bold" fill="#FFFFFF">
+                <tspan x="95.4641113" y="14">Network Automation </tspan>
+            </text>
+        </g>
+        <text id="Fortune-500-Company" font-family="SFProDisplay-Bold, SF Pro Display" font-size="15" font-weight="bold" fill="#FFFFFF">
+            <tspan x="118.463867" y="71">Fortune 500 Company</tspan>
+        </text>
+    </g>
+</svg>
